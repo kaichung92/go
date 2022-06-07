@@ -1,8 +1,8 @@
-package main
+package test
 
 import "fmt"
 
 
-func sub() {
+func Sub() {
     fmt.Println("Hello, World!")
 }

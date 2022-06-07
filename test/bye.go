@@ -1,8 +1,8 @@
-package main
+package test
 
 import "fmt"
 
 func main() {
-    sub()
+    Sub()
     fmt.Println("sub world!")
 }
